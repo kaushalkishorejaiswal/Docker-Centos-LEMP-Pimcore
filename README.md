@@ -113,3 +113,10 @@ docker run -t -i mysnapshot /bin/bash
   <li>Docker-MySQL :  https://github.com/kaushalkishorejaiswal/Docker-MySQL </li>
   <li>Docker-LAMP : https://github.com/kaushalkishorejaiswal/Docker-LAMP </li>
 </ul>
+<b>Database Credentials:</b>
+<ul>
+	<li>Host : 172.17.42.1</li>
+	<li>Username : root</li>
+	<li>Password : root</li>
+	<li>Database : pimcore</li>
+</ul>
