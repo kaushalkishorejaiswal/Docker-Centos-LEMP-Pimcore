@@ -35,7 +35,7 @@ RUN pip install supervisor
 RUN yum install -y zip unzip 
 
 #Installing Git
-RUN yun install -y git
+RUN yum install -y git
 
 # Enviroment variable for setting the Username and Password of MySQL
 ENV MYSQL_USER root
